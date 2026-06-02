@@ -1,10 +1,10 @@
 # Codes
 
-Every Code Parçası For This project
+Kaan was here
 
 Hilal was here
 
-sa nabıyonuz asdas
+Furkan was here
 
 tuğçe was here
 
