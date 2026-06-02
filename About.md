@@ -12,4 +12,5 @@ yönlendirmeyi ve yetkililere tüm süreci tek bir
 merkezden yönetme imkanı sunmayı
 hedeflemektedir. Amaç yalnızca teknolojiyi afet
 süreçlerine entegre etmek değil, kaosun en yoğun
-yaşandığı anlarda bile sist
+yaşandığı anlarda bile sistemin soğukkanlılıkla
+çalışmasını sağlamaktır.
